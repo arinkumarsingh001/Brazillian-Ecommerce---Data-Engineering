@@ -75,7 +75,7 @@ SELECT * FROM gold.final2;
 
 select * from gold.finaltable
 
-select * from gold.final2
+select * from gold.final
 
 
 
